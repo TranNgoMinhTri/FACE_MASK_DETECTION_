@@ -1,4 +1,17 @@
-# FACE_MASK_DETECTION_
+# FACE_MASK_DETECTION
 
-**PLOT
-<https://github.com/TranNgoMinhTri/FACE_MASK_DETECTION_/blob/main/precision.png>
+# Training
+
+```bash
+python train.py <> <> <>
+```
+
+## Detecting
+
+```
+python detect.py <> <> <>
+```
+
+## Testing 
+
+``` python test.py <> <> <> ```
