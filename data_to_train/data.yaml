@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/FACE_MASK/PyTorch_YOLOv4-master/data_to_train/OK/train
+val: /content/drive/MyDrive/FACE_MASK/PyTorch_YOLOv4-master/data_to_train/OK/valid
+
+nc: 3
+names: ['mask_weared_incorrect', 'with_mask', 'without_mask']

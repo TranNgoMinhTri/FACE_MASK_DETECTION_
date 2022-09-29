@@ -1,0 +1,6 @@
+train: data_to_train\OK\train
+val: data_to_train\OK\valid
+test: data_to_train\OK\test
+
+nc: 3
+names: ['mask_weared_incorrect', 'with_mask', 'without_mask']
